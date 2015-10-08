@@ -1,0 +1,1 @@
+This is a simple Joomla module that enables you to specify the best browser to view your website.It has options to enable or disable a specific browser,set the download link of the various browsers and an option to specify text to go with the browser list.
